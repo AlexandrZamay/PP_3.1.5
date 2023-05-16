@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff4357d1-f624-4ddf-bb47-8d25b939ef82" name="Changes" comment="select in views; roles on view in &quot;new&quot; in controller">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OsGezEMzTUDggjSSmX0qBAM7Tk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "Z:/GitHub/Repositories/PP_3.1.5/src/main/resources/templates",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "shared-indexes",
+    "spring.configuration.checksum": "7e3a243e66b01669507087d96c56f184",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\GitHub\Repositories\PP_3.1.5\src\main\resources\templates" />
+      <recent name="Z:\GitHub\Repositories\PP_3.1.5\src\main\resources\static" />
+      <recent name="Z:\GitHub\Repositories\PP_3.1.5" />
+      <recent name="Z:\GitHub\Repositories\PP_3.1.5\src" />
+      <recent name="Z:\InteliJIDEA\IdeaProjects\PP_3_1_2_Boot_Security\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\InteliJIDEA\IdeaProjects\PP_3_1_2_Boot_Security\src\main\resources\templates\new\admin" />
+      <recent name="Z:\InteliJIDEA\IdeaProjects\PP_3_1_2_Boot_Security\src\main\resources\templates\new" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootSecurityDemoApplication">
+    <configuration name="SpringBootSecurityDemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Spring_sec" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.kata.spring.boot_security.demo.SpringBootSecurityDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootSecurityDemoApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="PP_3.1.5" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="main.java.ru.kata.spring.boot_security.demo.SpringBootSecurityDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootSecurityDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="PP_3.1.5" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.kata.spring.boot_security.demo.SpringBootSecurityDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.1" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff4357d1-f624-4ddf-bb47-8d25b939ef82" name="Changes" comment="" />
+      <created>1682341974719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682341974719</updated>
+      <workItem from="1682341975973" duration="641000" />
+      <workItem from="1682434193151" duration="317000" />
+      <workItem from="1682497257241" duration="14298000" />
+      <workItem from="1682542513760" duration="6857000" />
+      <workItem from="1682599954460" duration="22877000" />
+      <workItem from="1682675891312" duration="7370000" />
+      <workItem from="1682685847305" duration="32000" />
+      <workItem from="1682771196470" duration="6247000" />
+      <workItem from="1682790603651" duration="10600000" />
+      <workItem from="1682847619833" duration="8504000" />
+      <workItem from="1682875372343" duration="6551000" />
+      <workItem from="1683024338314" duration="15980000" />
+      <workItem from="1683112226853" duration="12914000" />
+      <workItem from="1683150816181" duration="3540000" />
+      <workItem from="1683200238059" duration="3794000" />
+      <workItem from="1683204048686" duration="1761000" />
+      <workItem from="1683209004939" duration="1000" />
+      <workItem from="1683219515545" duration="708000" />
+      <workItem from="1683239000145" duration="1448000" />
+      <workItem from="1683240570661" duration="1405000" />
+      <workItem from="1683248006567" duration="1610000" />
+      <workItem from="1683307502336" duration="1959000" />
+      <workItem from="1683311346527" duration="3000" />
+      <workItem from="1683318857155" duration="2619000" />
+      <workItem from="1683377445095" duration="4752000" />
+      <workItem from="1684254165543" duration="4199000" />
+    </task>
+    <task id="LOCAL-00001" summary="First Try">
+      <created>1682551080843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682551080843</updated>
+    </task>
+    <task id="LOCAL-00002" summary="try to CRYPT passwords">
+      <created>1682602730389</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682602730389</updated>
+    </task>
+    <task id="LOCAL-00003" summary="try to migration">
+      <created>1682605473113</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682605473113</updated>
+    </task>
+    <task id="LOCAL-00004" summary="authority +&#10;migration -">
+      <created>1682622190936</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682622190936</updated>
+    </task>
+    <task id="LOCAL-00005" summary="authority +&#10;migration -">
+      <created>1682622968937</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682622968937</updated>
+    </task>
+    <task id="LOCAL-00006" summary="authority ++&#10;migration -">
+      <created>1682624652844</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682624652844</updated>
+    </task>
+    <task id="LOCAL-00007" summary="logout +&#10;authority ++&#10;migration -">
+      <created>1682682505605</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682682505605</updated>
+    </task>
+    <task id="LOCAL-00008" summary="LAZY&gt;EAGER + password encoder&#10;logout +&#10;authority ++&#10;migration -">
+      <created>1682685624613</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682685624613</updated>
+    </task>
+    <task id="LOCAL-00009" summary="little issues. not done">
+      <created>1682778171905</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682778171905</updated>
+    </task>
+    <task id="LOCAL-00010" summary="save, update +">
+      <created>1682853631739</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682853631739</updated>
+    </task>
+    <task id="LOCAL-00011" summary="maybe DONE">
+      <created>1682855640141</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682855640141</updated>
+    </task>
+    <task id="LOCAL-00012" summary="the final touch">
+      <created>1682855920373</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1682855920373</updated>
+    </task>
+    <task id="LOCAL-00013" summary="remove comm">
+      <created>1682875527741</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1682875527741</updated>
+    </task>
+    <task id="LOCAL-00014" summary="remove comm">
+      <created>1682877180796</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1682877180796</updated>
+    </task>
+    <task id="LOCAL-00015" summary="remove comm">
+      <created>1682880918954</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1682880918954</updated>
+    </task>
+    <task id="LOCAL-00016" summary="transactional (read only)">
+      <created>1683044159064</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1683044159064</updated>
+    </task>
+    <task id="LOCAL-00017" summary="CodeStyle">
+      <created>1683047764272</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1683047764272</updated>
+    </task>
+    <task id="LOCAL-00018" summary="CodeStyle">
+      <created>1683068163228</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1683068163228</updated>
+    </task>
+    <task id="LOCAL-00019" summary="NO Editing Password">
+      <created>1683112689339</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1683112689340</updated>
+    </task>
+    <task id="LOCAL-00020" summary="NO Editing Password">
+      <created>1683113790775</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1683113790775</updated>
+    </task>
+    <task id="LOCAL-00021" summary="updateUser">
+      <created>1683116792570</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1683116792570</updated>
+    </task>
+    <task id="LOCAL-00022" summary="select in views; roles on view in &quot;new&quot; in controller">
+      <created>1683119146995</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1683119146995</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Try" />
+    <MESSAGE value="try to CRYPT passwords" />
+    <MESSAGE value="try to migration" />
+    <MESSAGE value="authority +&#10;migration -" />
+    <MESSAGE value="authority ++&#10;migration -" />
+    <MESSAGE value="logout +&#10;authority ++&#10;migration -" />
+    <MESSAGE value="LAZY&gt;EAGER + password encoder&#10;logout +&#10;authority ++&#10;migration -" />
+    <MESSAGE value="little issues. not done" />
+    <MESSAGE value="save, update +" />
+    <MESSAGE value="maybe DONE" />
+    <MESSAGE value="the final touch" />
+    <MESSAGE value="cleaned trash" />
+    <MESSAGE value="remove comm" />
+    <MESSAGE value="transactional (read only)" />
+    <MESSAGE value="CodeStyle" />
+    <MESSAGE value="NO Editing Password" />
+    <MESSAGE value="updateUser" />
+    <MESSAGE value="select in views; roles on view in &quot;new&quot; in controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="select in views; roles on view in &quot;new&quot; in controller" />
+  </component>
+</project>
